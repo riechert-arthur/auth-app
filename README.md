@@ -1,3 +1,10 @@
+The following app is a simple authentication app using Next.js, React, TailwindCSS, and Sqlite. I only made it as an exercise.
+
+It does the following:
+- allows users to create, login, edit, and delete an account.
+- persists data using sqlite
+- store sessions using jwt
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
